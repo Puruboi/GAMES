@@ -1,2 +1,3 @@
-# Jumbled_Words_Program
-jumbled words Game
+ #GAMES
+        --> FizzBuzz Game
+        --> Jumbled words Game
