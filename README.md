@@ -1,3 +1,5 @@
  #GAMES
-        --> FizzBuzz Game
-        --> Jumbled words Game
+ 
+              --> FizzBuzz Game
+              
+              --> Jumbled words Game
